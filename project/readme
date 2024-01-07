@@ -1,0 +1,1 @@
+Designing a Sensor Gateway on STM32F4 Discovery Board. In our project, we will use a DHT11 temperature and humidity sensor and NRF24L01+ wireless communication module on STM32F4. This sensor gateway will receive data wirelessly and transmit this data to a computer via the serial communication port.
